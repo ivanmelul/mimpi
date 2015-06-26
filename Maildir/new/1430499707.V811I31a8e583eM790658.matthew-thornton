@@ -1,0 +1,249 @@
+Return-Path: <>
+X-Original-To: mimpi_ftp@matthew-thornton.dreamhost.com
+Delivered-To: mimpi_ftp@matthew-thornton.dreamhost.com
+Received: from iad1-shared-relay1.dreamhost.com (iad1-shared-relay1.dreamhost.com [208.113.157.50])
+	by matthew-thornton.dreamhost.com (Postfix) with ESMTP id B644A10011E
+	for <mimpi_ftp@matthew-thornton.dreamhost.com>; Fri,  1 May 2015 10:01:47 -0700 (PDT)
+Received: by iad1-shared-relay1.dreamhost.com (Postfix)
+	id 9FDF4B40062; Fri,  1 May 2015 10:01:47 -0700 (PDT)
+Date: Fri,  1 May 2015 10:01:47 -0700 (PDT)
+From: MAILER-DAEMON@iad1-shared-relay1.dreamhost.com (Mail Delivery System)
+Subject: Undelivered Mail Returned to Sender
+To: mimpi_ftp@matthew-thornton.dreamhost.com
+Auto-Submitted: auto-replied
+MIME-Version: 1.0
+Content-Type: multipart/report; report-type=delivery-status;
+	boundary="2FF87B400BC.1430499707/iad1-shared-relay1.dreamhost.com"
+Message-Id: <20150501170147.9FDF4B40062@iad1-shared-relay1.dreamhost.com>
+
+This is a MIME-encapsulated message.
+
+--2FF87B400BC.1430499707/iad1-shared-relay1.dreamhost.com
+Content-Description: Notification
+Content-Type: text/plain; charset=us-ascii
+
+This is the mail system at host iad1-shared-relay1.dreamhost.com.
+
+I'm sorry to have to inform you that your message could not
+be delivered to one or more recipients. It's attached below.
+
+If you are a current customer of DreamHost, please contact our 
+technical support team here
+
+https://panel.dreamhost.com/support
+
+If you are not a customer please use our contact form at.
+
+http://dreamhost.com/contact
+
+If you do so, please include this email in your support ticket. You can
+delete your own text from the attached returned message.
+
+		DreamHost Email Support
+
+<carladenise.-@live.com>: host mx2.hotmail.com[65.55.33.119] said: 550 SC-001
+    (COL004-MC5F15) Unfortunately, messages from 208.113.157.50 weren't sent.
+    Please contact your Internet service provider since part of their network
+    is on our block list. You can also refer your provider to
+    http://mail.live.com/mail/troubleshooting.aspx#errors. (in reply to MAIL
+    FROM command)
+
+--2FF87B400BC.1430499707/iad1-shared-relay1.dreamhost.com
+Content-Description: Delivery report
+Content-Type: message/delivery-status
+
+Reporting-MTA: dns; iad1-shared-relay1.dreamhost.com
+X-Postfix-Queue-ID: 2FF87B400BC
+X-Postfix-Sender: rfc822; mimpi_ftp@matthew-thornton.dreamhost.com
+Arrival-Date: Fri,  1 May 2015 10:01:47 -0700 (PDT)
+
+Final-Recipient: rfc822; carladenise.-@live.com
+Original-Recipient: rfc822;carladenise.-@live.com
+Action: failed
+Status: 5.0.0
+Remote-MTA: dns; mx2.hotmail.com
+Diagnostic-Code: smtp; 550 SC-001 (COL004-MC5F15) Unfortunately, messages from
+    208.113.157.50 weren't sent. Please contact your Internet service provider
+    since part of their network is on our block list. You can also refer your
+    provider to http://mail.live.com/mail/troubleshooting.aspx#errors.
+
+--2FF87B400BC.1430499707/iad1-shared-relay1.dreamhost.com
+Content-Description: Undelivered Message
+Content-Type: message/rfc822
+
+Return-Path: <mimpi_ftp@matthew-thornton.dreamhost.com>
+Received: from matthew-thornton.dreamhost.com (matthew-thornton.dreamhost.com [173.236.224.107])
+	by iad1-shared-relay1.dreamhost.com (Postfix) with ESMTP id 2FF87B400BC
+	for <carladenise.-@live.com>; Fri,  1 May 2015 10:01:47 -0700 (PDT)
+Received: by matthew-thornton.dreamhost.com (Postfix, from userid 14255220)
+	id 1F27F1003DE; Fri,  1 May 2015 10:01:47 -0700 (PDT)
+To: carladenise.-@live.com
+Subject: Pedido de Mimpi
+X-PHP-Originating-Script: 14255220:order.php
+Content-type: text/html; charset=iso-8859-1
+From: ventas@mimpi.com.ar
+Message-Id: <20150501170147.1F27F1003DE@matthew-thornton.dreamhost.com>
+Date: Fri,  1 May 2015 10:01:47 -0700 (PDT)
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/1999/REC-html401-19991224/strict.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>Mimpi - Pedido 391</title>
+</head>
+<body style="font-family: Arial, Helvetica, sans-serif; font-size: 12px; color: #000000;">
+<div style="width: 680px;"><a href="http://www.mimpi.com.ar/" title="Mimpi"><img src="http://www.mimpi.com.ar/image/data/logo.jpg" alt="Mimpi" style="margin-bottom: 20px; border: none; width: 200px;" /></a>
+  <p style="margin-top: 0px; margin-bottom: 20px;">Gracias por el interés en los productos de Mimpi. Tu pedido ha sido recibido y será procesado.</p>
+    <p style="margin-top: 0px; margin-bottom: 20px;"></p>
+  <p style="margin-top: 0px; margin-bottom: 20px;"><a href="http://www.mimpi.com.ar/">http://www.mimpi.com.ar/</a></p>
+      <table style="border-collapse: collapse; width: 100%; border-top: 1px solid #DDDDDD; border-left: 1px solid #DDDDDD; margin-bottom: 20px;">
+    <thead>
+      <tr>
+        <td style="font-size: 12px; border-right: 1px solid #DDDDDD; border-bottom: 1px solid #DDDDDD; background-color: #EFEFEF; font-weight: bold; text-align: left; padding: 7px; color: #222222;" colspan="2">Detalles del pedido</td>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td style="font-size: 12px;	border-right: 1px solid #DDDDDD; border-bottom: 1px solid #DDDDDD; text-align: left; padding: 7px;"><b>Id de pedido:</b> 391<br />
+          <b>Fecha alta:</b> 01/05/2015<br />
+          <b></b> Transferencia bancaria<br />
+                    <b>Método de envío:</b> Recoger en Tienda          </td>
+        <td style="font-size: 12px;	border-right: 1px solid #DDDDDD; border-bottom: 1px solid #DDDDDD; text-align: left; padding: 7px;"><b>Email:</b> carladenise.-@live.com<br />
+          <b>Teléfono:</b> 1165680594<br />
+          <b>Dirección IP:</b> 190.225.175.152<br /></td>
+      </tr>
+    </tbody>
+  </table>
+    <table style="border-collapse: collapse; width: 100%; border-top: 1px solid #DDDDDD; border-left: 1px solid #DDDDDD; margin-bottom: 20px;">
+    <thead>
+      <tr>
+        <td style="font-size: 12px; border-right: 1px solid #DDDDDD; border-bottom: 1px solid #DDDDDD; background-color: #EFEFEF; font-weight: bold; text-align: left; padding: 7px; color: #222222;">Instrucciones</td>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td style="font-size: 12px;	border-right: 1px solid #DDDDDD; border-bottom: 1px solid #DDDDDD; text-align: left; padding: 7px;">Instrucciones transferencia bancaria<br />
+<br />
+Contáctenos para detalles sobre la transferencia<br />
+<br />
+Tu pedido no se enviará hasta recibir el pago.</td>
+      </tr>
+    </tbody>
+  </table>
+    <table style="border-collapse: collapse; width: 100%; border-top: 1px solid #DDDDDD; border-left: 1px solid #DDDDDD; margin-bottom: 20px;">
+    <thead>
+      <tr>
+        <td style="font-size: 12px; border-right: 1px solid #DDDDDD; border-bottom: 1px solid #DDDDDD; background-color: #EFEFEF; font-weight: bold; text-align: left; padding: 7px; color: #222222;">Dirección de envío</td>
+                <td style="font-size: 12px; border-right: 1px solid #DDDDDD; border-bottom: 1px solid #DDDDDD; background-color: #EFEFEF; font-weight: bold; text-align: left; padding: 7px; color: #222222;">Dirección de envío</td>
+              </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td style="font-size: 12px;	border-right: 1px solid #DDDDDD; border-bottom: 1px solid #DDDDDD; text-align: left; padding: 7px;">Carla<br />Palacios<br />Tomson 729<br />Munro<br />1602<br />Buenos Aires<br />Argentina</td>
+                <td style="font-size: 12px;	border-right: 1px solid #DDDDDD; border-bottom: 1px solid #DDDDDD; text-align: left; padding: 7px;">Carla<br />Palacios<br />Tomson 729<br />Munro<br />1602<br />Buenos Aires<br />Argentina</td>
+              </tr>
+    </tbody>
+  </table>
+  <table style="border-collapse: collapse; width: 100%; border-top: 1px solid #DDDDDD; border-left: 1px solid #DDDDDD; margin-bottom: 20px;">
+    <thead>
+      <tr>
+        <td style="font-size: 12px; border-right: 1px solid #DDDDDD; border-bottom: 1px solid #DDDDDD; background-color: #EFEFEF; font-weight: bold; text-align: left; padding: 7px; color: #222222;">Producto</td>
+        <td style="font-size: 12px; border-right: 1px solid #DDDDDD; border-bottom: 1px solid #DDDDDD; background-color: #EFEFEF; font-weight: bold; text-align: left; padding: 7px; color: #222222;">Modelo</td>
+        <td style="font-size: 12px; border-right: 1px solid #DDDDDD; border-bottom: 1px solid #DDDDDD; background-color: #EFEFEF; font-weight: bold; text-align: right; padding: 7px; color: #222222;">Cantidad</td>
+        <td style="font-size: 12px; border-right: 1px solid #DDDDDD; border-bottom: 1px solid #DDDDDD; background-color: #EFEFEF; font-weight: bold; text-align: right; padding: 7px; color: #222222;"></td>
+        <td style="font-size: 12px; border-right: 1px solid #DDDDDD; border-bottom: 1px solid #DDDDDD; background-color: #EFEFEF; font-weight: bold; text-align: right; padding: 7px; color: #222222;"></td>
+      </tr>
+    </thead>
+    <tbody>
+            <tr>
+        <td style="font-size: 12px;	border-right: 1px solid #DDDDDD; border-bottom: 1px solid #DDDDDD; text-align: left; padding: 7px;">Enterito de friza estampada                     <br />
+          &nbsp;<small> - Talle: 4</small>
+          </td>
+        <td style="font-size: 12px;	border-right: 1px solid #DDDDDD; border-bottom: 1px solid #DDDDDD; text-align: left; padding: 7px;">6685</td>
+        <td style="font-size: 12px;	border-right: 1px solid #DDDDDD; border-bottom: 1px solid #DDDDDD; text-align: right; padding: 7px;">1</td>
+        <td style="font-size: 12px;	border-right: 1px solid #DDDDDD; border-bottom: 1px solid #DDDDDD; text-align: right; padding: 7px;">$140.00</td>
+        <td style="font-size: 12px;	border-right: 1px solid #DDDDDD; border-bottom: 1px solid #DDDDDD; text-align: right; padding: 7px;">$140.00</td>
+      </tr>
+            <tr>
+        <td style="font-size: 12px;	border-right: 1px solid #DDDDDD; border-bottom: 1px solid #DDDDDD; text-align: left; padding: 7px;">Remera de modal con voladitos en hombro                    <br />
+          &nbsp;<small> - Talle: 3</small>
+          </td>
+        <td style="font-size: 12px;	border-right: 1px solid #DDDDDD; border-bottom: 1px solid #DDDDDD; text-align: left; padding: 7px;">6642</td>
+        <td style="font-size: 12px;	border-right: 1px solid #DDDDDD; border-bottom: 1px solid #DDDDDD; text-align: right; padding: 7px;">1</td>
+        <td style="font-size: 12px;	border-right: 1px solid #DDDDDD; border-bottom: 1px solid #DDDDDD; text-align: right; padding: 7px;">$70.00</td>
+        <td style="font-size: 12px;	border-right: 1px solid #DDDDDD; border-bottom: 1px solid #DDDDDD; text-align: right; padding: 7px;">$70.00</td>
+      </tr>
+            <tr>
+        <td style="font-size: 12px;	border-right: 1px solid #DDDDDD; border-bottom: 1px solid #DDDDDD; text-align: left; padding: 7px;">Conjunto de friza combinado con orejitas en capucha                    <br />
+          &nbsp;<small> - Talle: 3</small>
+          </td>
+        <td style="font-size: 12px;	border-right: 1px solid #DDDDDD; border-bottom: 1px solid #DDDDDD; text-align: left; padding: 7px;">6605</td>
+        <td style="font-size: 12px;	border-right: 1px solid #DDDDDD; border-bottom: 1px solid #DDDDDD; text-align: right; padding: 7px;">1</td>
+        <td style="font-size: 12px;	border-right: 1px solid #DDDDDD; border-bottom: 1px solid #DDDDDD; text-align: right; padding: 7px;">$170.00</td>
+        <td style="font-size: 12px;	border-right: 1px solid #DDDDDD; border-bottom: 1px solid #DDDDDD; text-align: right; padding: 7px;">$170.00</td>
+      </tr>
+            <tr>
+        <td style="font-size: 12px;	border-right: 1px solid #DDDDDD; border-bottom: 1px solid #DDDDDD; text-align: left; padding: 7px;">Conjunto de friza combinado con estampa y bordado                    <br />
+          &nbsp;<small> - Talle: 3</small>
+          </td>
+        <td style="font-size: 12px;	border-right: 1px solid #DDDDDD; border-bottom: 1px solid #DDDDDD; text-align: left; padding: 7px;">6600</td>
+        <td style="font-size: 12px;	border-right: 1px solid #DDDDDD; border-bottom: 1px solid #DDDDDD; text-align: right; padding: 7px;">1</td>
+        <td style="font-size: 12px;	border-right: 1px solid #DDDDDD; border-bottom: 1px solid #DDDDDD; text-align: right; padding: 7px;">$180.00</td>
+        <td style="font-size: 12px;	border-right: 1px solid #DDDDDD; border-bottom: 1px solid #DDDDDD; text-align: right; padding: 7px;">$180.00</td>
+      </tr>
+            <tr>
+        <td style="font-size: 12px;	border-right: 1px solid #DDDDDD; border-bottom: 1px solid #DDDDDD; text-align: left; padding: 7px;">Conjunto de friza combinado, estampa &quot;moño&quot;                    <br />
+          &nbsp;<small> - Talle: 3</small>
+          </td>
+        <td style="font-size: 12px;	border-right: 1px solid #DDDDDD; border-bottom: 1px solid #DDDDDD; text-align: left; padding: 7px;">6601</td>
+        <td style="font-size: 12px;	border-right: 1px solid #DDDDDD; border-bottom: 1px solid #DDDDDD; text-align: right; padding: 7px;">1</td>
+        <td style="font-size: 12px;	border-right: 1px solid #DDDDDD; border-bottom: 1px solid #DDDDDD; text-align: right; padding: 7px;">$150.00</td>
+        <td style="font-size: 12px;	border-right: 1px solid #DDDDDD; border-bottom: 1px solid #DDDDDD; text-align: right; padding: 7px;">$150.00</td>
+      </tr>
+            <tr>
+        <td style="font-size: 12px;	border-right: 1px solid #DDDDDD; border-bottom: 1px solid #DDDDDD; text-align: left; padding: 7px;">Calza de modal, con recorte en rodilla bordado gatito                    <br />
+          &nbsp;<small> - Talle: 3</small>
+          </td>
+        <td style="font-size: 12px;	border-right: 1px solid #DDDDDD; border-bottom: 1px solid #DDDDDD; text-align: left; padding: 7px;">6663</td>
+        <td style="font-size: 12px;	border-right: 1px solid #DDDDDD; border-bottom: 1px solid #DDDDDD; text-align: right; padding: 7px;">1</td>
+        <td style="font-size: 12px;	border-right: 1px solid #DDDDDD; border-bottom: 1px solid #DDDDDD; text-align: right; padding: 7px;">$60.00</td>
+        <td style="font-size: 12px;	border-right: 1px solid #DDDDDD; border-bottom: 1px solid #DDDDDD; text-align: right; padding: 7px;">$60.00</td>
+      </tr>
+            <tr>
+        <td style="font-size: 12px;	border-right: 1px solid #DDDDDD; border-bottom: 1px solid #DDDDDD; text-align: left; padding: 7px;">Sweater computado dibujo gatito con moño                    <br />
+          &nbsp;<small> - Talle: 3</small>
+          </td>
+        <td style="font-size: 12px;	border-right: 1px solid #DDDDDD; border-bottom: 1px solid #DDDDDD; text-align: left; padding: 7px;">6503</td>
+        <td style="font-size: 12px;	border-right: 1px solid #DDDDDD; border-bottom: 1px solid #DDDDDD; text-align: right; padding: 7px;">1</td>
+        <td style="font-size: 12px;	border-right: 1px solid #DDDDDD; border-bottom: 1px solid #DDDDDD; text-align: right; padding: 7px;">$120.00</td>
+        <td style="font-size: 12px;	border-right: 1px solid #DDDDDD; border-bottom: 1px solid #DDDDDD; text-align: right; padding: 7px;">$120.00</td>
+      </tr>
+            <tr>
+        <td style="font-size: 12px;	border-right: 1px solid #DDDDDD; border-bottom: 1px solid #DDDDDD; text-align: left; padding: 7px;">Conjunto de interlock combinado de body y calza                    <br />
+          &nbsp;<small> - Talle: 4</small>
+          </td>
+        <td style="font-size: 12px;	border-right: 1px solid #DDDDDD; border-bottom: 1px solid #DDDDDD; text-align: left; padding: 7px;">6674</td>
+        <td style="font-size: 12px;	border-right: 1px solid #DDDDDD; border-bottom: 1px solid #DDDDDD; text-align: right; padding: 7px;">1</td>
+        <td style="font-size: 12px;	border-right: 1px solid #DDDDDD; border-bottom: 1px solid #DDDDDD; text-align: right; padding: 7px;">$100.00</td>
+        <td style="font-size: 12px;	border-right: 1px solid #DDDDDD; border-bottom: 1px solid #DDDDDD; text-align: right; padding: 7px;">$100.00</td>
+      </tr>
+                </tbody>
+    <tfoot>
+            <tr>
+        <td style="font-size: 12px;	border-right: 1px solid #DDDDDD; border-bottom: 1px solid #DDDDDD; text-align: right; padding: 7px;" colspan="4"><b>Sub-Total::</b></td>
+        <td style="font-size: 12px;	border-right: 1px solid #DDDDDD; border-bottom: 1px solid #DDDDDD; text-align: right; padding: 7px;">$990.00</td>
+      </tr>
+            <tr>
+        <td style="font-size: 12px;	border-right: 1px solid #DDDDDD; border-bottom: 1px solid #DDDDDD; text-align: right; padding: 7px;" colspan="4"><b>Total::</b></td>
+        <td style="font-size: 12px;	border-right: 1px solid #DDDDDD; border-bottom: 1px solid #DDDDDD; text-align: right; padding: 7px;">$990.00</td>
+      </tr>
+          </tfoot>
+  </table>
+  <p style="margin-top: 0px; margin-bottom: 20px;">Por favor responde a este email si tienes alguna duda.</p>
+  <p style="margin-top: 0px; margin-bottom: 20px;"></p>
+</div>
+</body>
+</html>
+
+
+--2FF87B400BC.1430499707/iad1-shared-relay1.dreamhost.com--

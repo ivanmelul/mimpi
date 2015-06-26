@@ -1,0 +1,103 @@
+Return-Path: <>
+X-Original-To: mimpi_ftp@matthew-thornton.dreamhost.com
+Delivered-To: mimpi_ftp@matthew-thornton.dreamhost.com
+Received: by matthew-thornton.dreamhost.com (Postfix)
+	id 6BDB2100BB5; Fri, 13 Mar 2015 09:17:03 -0700 (PDT)
+Date: Fri, 13 Mar 2015 09:17:03 -0700 (PDT)
+From: MAILER-DAEMON@matthew-thornton.dreamhost.com (Mail Delivery System)
+Subject: Undelivered Mail Returned to Sender
+To: mimpi_ftp@matthew-thornton.dreamhost.com
+Auto-Submitted: auto-replied
+MIME-Version: 1.0
+Content-Type: multipart/report; report-type=delivery-status;
+	boundary="3E18B100BB4.1426263423/matthew-thornton.dreamhost.com"
+Message-Id: <20150313161703.6BDB2100BB5@matthew-thornton.dreamhost.com>
+
+This is a MIME-encapsulated message.
+
+--3E18B100BB4.1426263423/matthew-thornton.dreamhost.com
+Content-Description: Notification
+Content-Type: text/plain; charset=us-ascii
+
+This is the mail system at host matthew-thornton.dreamhost.com.
+
+I'm sorry to have to inform you that your message could not
+be delivered to one or more recipients. It's attached below.
+
+If you are a current customer of DreamHost, please contact our
+technical support team here
+
+https://panel.dreamhost.com/support
+
+If you are not a customer please use our contact form at.
+
+http://dreamhost.com/contact
+
+If you do so, please include this email in your support ticket. You can
+delete your own text from the attached returned message.
+
+                DreamHost Email Support
+
+<jesicaharari@gmail.com>: host iad1-shared-relay1.dreamhost.com[208.113.157.50]
+    said: 550 5.7.1 Sender domain not allowed. Please read:
+    http://dhurl.org/20b D23 (in reply to end of DATA command)
+
+<ventas@mimpi.com.ar>: host iad1-shared-relay1.dreamhost.com[208.113.157.50]
+    said: 550 5.7.1 Sender domain not allowed. Please read:
+    http://dhurl.org/20b D23 (in reply to end of DATA command)
+
+--3E18B100BB4.1426263423/matthew-thornton.dreamhost.com
+Content-Description: Delivery report
+Content-Type: message/delivery-status
+
+Reporting-MTA: dns; matthew-thornton.dreamhost.com
+X-Postfix-Queue-ID: 3E18B100BB4
+X-Postfix-Sender: rfc822; mimpi_ftp@matthew-thornton.dreamhost.com
+Arrival-Date: Fri, 13 Mar 2015 09:17:03 -0700 (PDT)
+
+Final-Recipient: rfc822; jesicaharari@gmail.com
+Action: failed
+Status: 5.7.1
+Remote-MTA: dns; iad1-shared-relay1.dreamhost.com
+Diagnostic-Code: smtp; 550 5.7.1 Sender domain not allowed. Please read:
+    http://dhurl.org/20b D23
+
+Final-Recipient: rfc822; ventas@mimpi.com.ar
+Action: failed
+Status: 5.7.1
+Remote-MTA: dns; iad1-shared-relay1.dreamhost.com
+Diagnostic-Code: smtp; 550 5.7.1 Sender domain not allowed. Please read:
+    http://dhurl.org/20b D23
+
+--3E18B100BB4.1426263423/matthew-thornton.dreamhost.com
+Content-Description: Undelivered Message
+Content-Type: message/rfc822
+
+Return-Path: <mimpi_ftp@matthew-thornton.dreamhost.com>
+Received: by matthew-thornton.dreamhost.com (Postfix, from userid 14255220)
+	id 3E18B100BB4; Fri, 13 Mar 2015 09:17:03 -0700 (PDT)
+To: ventas@mimpi.com.ar
+Subject: Contacto de Mimpi
+X-PHP-Originating-Script: 14255220:contactoGeneric.php
+From: vero_amore@live.com.ar
+Message-Id: <20150313161703.3E18B100BB4@matthew-thornton.dreamhost.com>
+Date: Fri, 13 Mar 2015 09:17:03 -0700 (PDT)
+
+---------------------------------- 
+            Contacto               
+---------------------------------- 
+NOMBRE:	vero
+MAIL:	vero_amore@live.com.ar
+TEL:	2254413990
+FECHA:	13/03/2015
+HORA:	09:17:03 am
+---------------------------------- 
+
+Cual es el minino de compra?
+
+
+---------------------------------- 
+Enviado desde http://www.mimpi.com.ar 
+
+
+--3E18B100BB4.1426263423/matthew-thornton.dreamhost.com--

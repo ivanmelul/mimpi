@@ -1,0 +1,101 @@
+Return-Path: <>
+X-Original-To: mimpi_ftp@matthew-thornton.dreamhost.com
+Delivered-To: mimpi_ftp@matthew-thornton.dreamhost.com
+Received: from homiemail-mx17.g.dreamhost.com (mx2.sub4.homie.mail.dreamhost.com [69.163.253.137])
+	by matthew-thornton.dreamhost.com (Postfix) with ESMTP id AE1281005F1
+	for <mimpi_ftp@matthew-thornton.dreamhost.com>; Sat, 13 Jun 2015 09:52:39 -0700 (PDT)
+Received: by homiemail-mx17.g.dreamhost.com (Postfix)
+	id 3FE944126A25A; Sat, 13 Jun 2015 09:52:39 -0700 (PDT)
+Date: Sat, 13 Jun 2015 09:52:39 -0700 (PDT)
+From: MAILER-DAEMON@homiemail-mx17.g.dreamhost.com (Mail Delivery System)
+Subject: Undelivered Mail Returned to Sender
+To: mimpi_ftp@matthew-thornton.dreamhost.com
+Auto-Submitted: auto-replied
+MIME-Version: 1.0
+Content-Type: multipart/report; report-type=delivery-status;
+	boundary="1B70141208D83.1434214359/homiemail-mx17.g.dreamhost.com"
+Message-Id: <20150613165239.3FE944126A25A@homiemail-mx17.g.dreamhost.com>
+
+This is a MIME-encapsulated message.
+
+--1B70141208D83.1434214359/homiemail-mx17.g.dreamhost.com
+Content-Description: Notification
+Content-Type: text/plain; charset=us-ascii
+
+This is the mail system at host homiemail-mx17.g.dreamhost.com.
+
+I'm sorry to have to inform you that your message could not
+be delivered to one or more recipients. It's attached below.
+
+If you are a current customer of DreamHost, please contact our
+technical support team here
+
+https://panel.dreamhost.com/support
+
+If you are not a customer please use our contact form at.
+
+http://dreamhost.com/contact
+
+If you do so, please include this email in your support ticket. You can
+delete your own text from the attached returned message.
+
+                DreamHost Email Support
+
+<x14269810@homiemail-mx17.g.dreamhost.com> (expanded from
+    <ventas@mimpi.com.ar>): maildir delivery failed: create maildir file
+    /mnt/andonly/vol/boot/homie/omer/x14269810/Maildir/tmp/1434214359.P18111.homiemail-mx17:
+    Disk quota exceeded
+
+--1B70141208D83.1434214359/homiemail-mx17.g.dreamhost.com
+Content-Description: Delivery report
+Content-Type: message/delivery-status
+
+Reporting-MTA: dns; homiemail-mx17.g.dreamhost.com
+X-Postfix-Queue-ID: 1B70141208D83
+X-Postfix-Sender: rfc822; mimpi_ftp@matthew-thornton.dreamhost.com
+Arrival-Date: Sat, 13 Jun 2015 09:52:39 -0700 (PDT)
+
+Final-Recipient: rfc822; x14269810@homiemail-mx17.g.dreamhost.com
+Original-Recipient: rfc822;ventas@mimpi.com.ar
+Action: failed
+Status: 5.2.2
+Diagnostic-Code: X-Postfix; maildir delivery failed: create maildir file
+    /mnt/andonly/vol/boot/homie/omer/x14269810/Maildir/tmp/1434214359.P18111.homiemail-mx17:
+    Disk quota exceeded
+
+--1B70141208D83.1434214359/homiemail-mx17.g.dreamhost.com
+Content-Description: Undelivered Message
+Content-Type: message/rfc822
+
+Return-Path: <mimpi_ftp@matthew-thornton.dreamhost.com>
+Received: from iad1-shared-relay1.dreamhost.com (iad1-shared-relay1.dreamhost.com [208.113.157.50])
+	by homiemail-mx17.g.dreamhost.com (Postfix) with ESMTP id 1B70141208D83
+	for <ventas@mimpi.com.ar>; Sat, 13 Jun 2015 09:52:39 -0700 (PDT)
+Received: from matthew-thornton.dreamhost.com (matthew-thornton.dreamhost.com [173.236.224.107])
+	by iad1-shared-relay1.dreamhost.com (Postfix) with ESMTP id A65FCB400B0;
+	Sat, 13 Jun 2015 09:52:38 -0700 (PDT)
+Received: by matthew-thornton.dreamhost.com (Postfix, from userid 14255220)
+	id A096D100619; Sat, 13 Jun 2015 09:52:38 -0700 (PDT)
+To: ventas@mimpi.com.ar
+Subject: Contacto de Mimpi
+X-PHP-Originating-Script: 14255220:contactoGeneric.php
+From: cecilia.b83@hotmail.com
+Message-Id: <20150613165238.A096D100619@matthew-thornton.dreamhost.com>
+Date: Sat, 13 Jun 2015 09:52:38 -0700 (PDT)
+
+---------------------------------- 
+            Contacto               
+---------------------------------- 
+NOMBRE:	cecilia
+MAIL:	cecilia.b83@hotmail.com
+FECHA:	13/06/2015
+HORA:	09:52:38 am
+---------------------------------- 
+
+quisiera saber cuanto es el monto que hay que realizar para precios de mayoristas
+
+---------------------------------- 
+Enviado desde http://www.mimpi.com.ar 
+
+
+--1B70141208D83.1434214359/homiemail-mx17.g.dreamhost.com--

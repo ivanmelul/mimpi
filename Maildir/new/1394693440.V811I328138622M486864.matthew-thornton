@@ -1,0 +1,174 @@
+Return-Path: <>
+X-Original-To: mimpi_ftp@matthew-thornton.dreamhost.com
+Delivered-To: mimpi_ftp@matthew-thornton.dreamhost.com
+Received: by matthew-thornton.dreamhost.com (Postfix)
+	id 66A6D4030F; Wed, 12 Mar 2014 23:50:40 -0700 (PDT)
+Date: Wed, 12 Mar 2014 23:50:40 -0700 (PDT)
+From: MAILER-DAEMON@matthew-thornton.dreamhost.com (Mail Delivery System)
+Subject: Undelivered Mail Returned to Sender
+To: mimpi_ftp@matthew-thornton.dreamhost.com
+Auto-Submitted: auto-replied
+MIME-Version: 1.0
+Content-Type: multipart/report; report-type=delivery-status;
+	boundary="4DE064031C.1394693440/matthew-thornton.dreamhost.com"
+Message-Id: <20140313065040.66A6D4030F@matthew-thornton.dreamhost.com>
+
+This is a MIME-encapsulated message.
+
+--4DE064031C.1394693440/matthew-thornton.dreamhost.com
+Content-Description: Notification
+Content-Type: text/plain; charset=us-ascii
+
+This is the mail system at host matthew-thornton.dreamhost.com.
+
+I'm sorry to have to inform you that your message could not
+be delivered to one or more recipients. It's attached below.
+
+If you are a current customer of DreamHost, please contact our 
+technical support team here
+
+https://panel.dreamhost.com/support
+
+If you are not a customer please use our contact form at.
+
+http://dreamhost.com/contact
+
+If you do so, please include this email in your support ticket. You can
+delete your own text from the attached returned message.
+
+		DreamHost Email Support
+
+<fedesnieg@gmail.com>: host iad1-shared-relay1.dreamhost.com[208.113.157.50]
+    said: 550 5.7.1 Sender domain not allowed. Please read:
+    http://dhurl.org/20b (in reply to end of DATA command)
+
+--4DE064031C.1394693440/matthew-thornton.dreamhost.com
+Content-Description: Delivery report
+Content-Type: message/delivery-status
+
+Reporting-MTA: dns; matthew-thornton.dreamhost.com
+X-Postfix-Queue-ID: 4DE064031C
+X-Postfix-Sender: rfc822; mimpi_ftp@matthew-thornton.dreamhost.com
+Arrival-Date: Wed, 12 Mar 2014 23:50:40 -0700 (PDT)
+
+Final-Recipient: rfc822; fedesnieg@gmail.com
+Action: failed
+Status: 5.7.1
+Remote-MTA: dns; iad1-shared-relay1.dreamhost.com
+Diagnostic-Code: smtp; 550 5.7.1 Sender domain not allowed. Please read:
+    http://dhurl.org/20b
+
+--4DE064031C.1394693440/matthew-thornton.dreamhost.com
+Content-Description: Undelivered Message
+Content-Type: message/rfc822
+
+Return-Path: <mimpi_ftp@matthew-thornton.dreamhost.com>
+Received: by matthew-thornton.dreamhost.com (Postfix, from userid 14255220)
+	id 4DE064031C; Wed, 12 Mar 2014 23:50:40 -0700 (PDT)
+To: fedesnieg@gmail.com
+Subject: Contacto de Mimpi
+X-PHP-Originating-Script: 14255220:order.php
+Content-type: text/html; charset=iso-8859-1
+From: fsnieg@gmail.com
+Message-Id: <20140313065040.4DE064031C@matthew-thornton.dreamhost.com>
+Date: Wed, 12 Mar 2014 23:50:40 -0700 (PDT)
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/1999/REC-html401-19991224/strict.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>Mimpi - Pedido 31</title>
+</head>
+<body style="font-family: Arial, Helvetica, sans-serif; font-size: 12px; color: #000000;">
+<div style="width: 680px;"><a href="http://www.mimpi.com.ar/" title="Mimpi"><img src="http://www.mimpi.com.ar/image/data/logo.jpg" alt="Mimpi" style="margin-bottom: 20px; border: none; width: 200px;" /></a>
+  <p style="margin-top: 0px; margin-bottom: 20px;">Gracias por el interés en los productos de Mimpi. Tu pedido ha sido recibido y será procesado.</p>
+    <p style="margin-top: 0px; margin-bottom: 20px;"></p>
+  <p style="margin-top: 0px; margin-bottom: 20px;"><a href="http://www.mimpi.com.ar/">http://www.mimpi.com.ar/</a></p>
+      <table style="border-collapse: collapse; width: 100%; border-top: 1px solid #DDDDDD; border-left: 1px solid #DDDDDD; margin-bottom: 20px;">
+    <thead>
+      <tr>
+        <td style="font-size: 12px; border-right: 1px solid #DDDDDD; border-bottom: 1px solid #DDDDDD; background-color: #EFEFEF; font-weight: bold; text-align: left; padding: 7px; color: #222222;" colspan="2">Detalles del pedido</td>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td style="font-size: 12px;	border-right: 1px solid #DDDDDD; border-bottom: 1px solid #DDDDDD; text-align: left; padding: 7px;"><b>Id de pedido:</b> 31<br />
+          <b>Fecha alta:</b> 12/03/2014<br />
+          <b></b> Transferencia bancaria<br />
+                    <b>Método de envío:</b> Envío tarifa fija          </td>
+        <td style="font-size: 12px;	border-right: 1px solid #DDDDDD; border-bottom: 1px solid #DDDDDD; text-align: left; padding: 7px;"><b>Email:</b> fedesnieg@gmail.com<br />
+          <b>Teléfono:</b> 1234<br />
+          <b>Dirección IP:</b> 181.166.221.7<br /></td>
+      </tr>
+    </tbody>
+  </table>
+    <table style="border-collapse: collapse; width: 100%; border-top: 1px solid #DDDDDD; border-left: 1px solid #DDDDDD; margin-bottom: 20px;">
+    <thead>
+      <tr>
+        <td style="font-size: 12px; border-right: 1px solid #DDDDDD; border-bottom: 1px solid #DDDDDD; background-color: #EFEFEF; font-weight: bold; text-align: left; padding: 7px; color: #222222;">Instrucciones</td>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td style="font-size: 12px;	border-right: 1px solid #DDDDDD; border-bottom: 1px solid #DDDDDD; text-align: left; padding: 7px;">Instrucciones transferencia bancaria<br />
+<br />
+Contáctenos para detalles sobre la transferencia<br />
+<br />
+Tu pedido no se enviará hasta recibir el pago.</td>
+      </tr>
+    </tbody>
+  </table>
+    <table style="border-collapse: collapse; width: 100%; border-top: 1px solid #DDDDDD; border-left: 1px solid #DDDDDD; margin-bottom: 20px;">
+    <thead>
+      <tr>
+        <td style="font-size: 12px; border-right: 1px solid #DDDDDD; border-bottom: 1px solid #DDDDDD; background-color: #EFEFEF; font-weight: bold; text-align: left; padding: 7px; color: #222222;">Dirección de envío</td>
+                <td style="font-size: 12px; border-right: 1px solid #DDDDDD; border-bottom: 1px solid #DDDDDD; background-color: #EFEFEF; font-weight: bold; text-align: left; padding: 7px; color: #222222;">Dirección de envío</td>
+              </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td style="font-size: 12px;	border-right: 1px solid #DDDDDD; border-bottom: 1px solid #DDDDDD; text-align: left; padding: 7px;">Fede Snieg<br />1234<br />asd<br />Buenos Aires<br />Argentina</td>
+                <td style="font-size: 12px;	border-right: 1px solid #DDDDDD; border-bottom: 1px solid #DDDDDD; text-align: left; padding: 7px;">Fede Snieg<br />1234<br />asd<br />Buenos Aires<br />Argentina</td>
+              </tr>
+    </tbody>
+  </table>
+  <table style="border-collapse: collapse; width: 100%; border-top: 1px solid #DDDDDD; border-left: 1px solid #DDDDDD; margin-bottom: 20px;">
+    <thead>
+      <tr>
+        <td style="font-size: 12px; border-right: 1px solid #DDDDDD; border-bottom: 1px solid #DDDDDD; background-color: #EFEFEF; font-weight: bold; text-align: left; padding: 7px; color: #222222;">Producto</td>
+        <td style="font-size: 12px; border-right: 1px solid #DDDDDD; border-bottom: 1px solid #DDDDDD; background-color: #EFEFEF; font-weight: bold; text-align: left; padding: 7px; color: #222222;">Modelo</td>
+        <td style="font-size: 12px; border-right: 1px solid #DDDDDD; border-bottom: 1px solid #DDDDDD; background-color: #EFEFEF; font-weight: bold; text-align: right; padding: 7px; color: #222222;">Cantidad</td>
+        <td style="font-size: 12px; border-right: 1px solid #DDDDDD; border-bottom: 1px solid #DDDDDD; background-color: #EFEFEF; font-weight: bold; text-align: right; padding: 7px; color: #222222;"></td>
+        <td style="font-size: 12px; border-right: 1px solid #DDDDDD; border-bottom: 1px solid #DDDDDD; background-color: #EFEFEF; font-weight: bold; text-align: right; padding: 7px; color: #222222;"></td>
+      </tr>
+    </thead>
+    <tbody>
+            <tr>
+        <td style="font-size: 12px;	border-right: 1px solid #DDDDDD; border-bottom: 1px solid #DDDDDD; text-align: left; padding: 7px;">Buzo cuello redondo con estampa                    <br />
+          &nbsp;<small> - Talle: 5</small>
+          </td>
+        <td style="font-size: 12px;	border-right: 1px solid #DDDDDD; border-bottom: 1px solid #DDDDDD; text-align: left; padding: 7px;">5627</td>
+        <td style="font-size: 12px;	border-right: 1px solid #DDDDDD; border-bottom: 1px solid #DDDDDD; text-align: right; padding: 7px;">1</td>
+        <td style="font-size: 12px;	border-right: 1px solid #DDDDDD; border-bottom: 1px solid #DDDDDD; text-align: right; padding: 7px;">$70.00</td>
+        <td style="font-size: 12px;	border-right: 1px solid #DDDDDD; border-bottom: 1px solid #DDDDDD; text-align: right; padding: 7px;">$70.00</td>
+      </tr>
+                </tbody>
+    <tfoot>
+            <tr>
+        <td style="font-size: 12px;	border-right: 1px solid #DDDDDD; border-bottom: 1px solid #DDDDDD; text-align: right; padding: 7px;" colspan="4"><b>Sub-Total::</b></td>
+        <td style="font-size: 12px;	border-right: 1px solid #DDDDDD; border-bottom: 1px solid #DDDDDD; text-align: right; padding: 7px;">$70.00</td>
+      </tr>
+            <tr>
+        <td style="font-size: 12px;	border-right: 1px solid #DDDDDD; border-bottom: 1px solid #DDDDDD; text-align: right; padding: 7px;" colspan="4"><b>Total::</b></td>
+        <td style="font-size: 12px;	border-right: 1px solid #DDDDDD; border-bottom: 1px solid #DDDDDD; text-align: right; padding: 7px;">$70.00</td>
+      </tr>
+          </tfoot>
+  </table>
+  <p style="margin-top: 0px; margin-bottom: 20px;">Por favor responde a este email si tienes alguna duda.</p>
+  <p style="margin-top: 0px; margin-bottom: 20px;"></p>
+</div>
+</body>
+</html>
+
+
+--4DE064031C.1394693440/matthew-thornton.dreamhost.com--

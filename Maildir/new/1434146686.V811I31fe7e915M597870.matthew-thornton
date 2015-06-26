@@ -1,0 +1,83 @@
+Return-Path: <>
+X-Original-To: mimpi_ftp@matthew-thornton.dreamhost.com
+Delivered-To: mimpi_ftp@matthew-thornton.dreamhost.com
+Received: from homiemail-mx12.g.dreamhost.com (mx2.sub4.homie.mail.dreamhost.com [69.163.253.137])
+	by matthew-thornton.dreamhost.com (Postfix) with ESMTP id 80F0610066C
+	for <mimpi_ftp@matthew-thornton.dreamhost.com>; Fri, 12 Jun 2015 15:04:46 -0700 (PDT)
+Received: by homiemail-mx12.g.dreamhost.com (Postfix)
+	id 272482D4293; Fri, 12 Jun 2015 15:04:46 -0700 (PDT)
+Date: Fri, 12 Jun 2015 15:04:46 -0700 (PDT)
+From: MAILER-DAEMON@homiemail-mx12.g.dreamhost.com (Mail Delivery System)
+Subject: Undelivered Mail Returned to Sender
+To: mimpi_ftp@matthew-thornton.dreamhost.com
+Auto-Submitted: auto-replied
+MIME-Version: 1.0
+Content-Type: multipart/report; report-type=delivery-status;
+	boundary="A56B92D426B.1434146686/homiemail-mx12.g.dreamhost.com"
+Message-Id: <20150612220446.272482D4293@homiemail-mx12.g.dreamhost.com>
+
+This is a MIME-encapsulated message.
+
+--A56B92D426B.1434146686/homiemail-mx12.g.dreamhost.com
+Content-Description: Notification
+Content-Type: text/plain; charset=us-ascii
+
+This is the mail system at host homiemail-mx12.g.dreamhost.com.
+
+I'm sorry to have to inform you that your message could not
+be delivered to one or more recipients. It's attached below.
+
+If you are a current customer of DreamHost, please contact our 
+technical support team here
+
+https://panel.dreamhost.com/support
+
+If you are not a customer please use our contact form at.
+
+http://dreamhost.com/contact
+
+If you do so, please include this email in your support ticket. You can
+delete your own text from the attached returned message.
+
+		DreamHost Email Support
+
+<x14269810@homiemail-mx12.g.dreamhost.com> (expanded from
+    <ventas@mimpi.com.ar>): maildir delivery failed: error writing message:
+    Disk quota exceeded
+
+--A56B92D426B.1434146686/homiemail-mx12.g.dreamhost.com
+Content-Description: Delivery report
+Content-Type: message/delivery-status
+
+Reporting-MTA: dns; homiemail-mx12.g.dreamhost.com
+X-Postfix-Queue-ID: A56B92D426B
+X-Postfix-Sender: rfc822; mimpi_ftp@matthew-thornton.dreamhost.com
+Arrival-Date: Fri, 12 Jun 2015 15:04:45 -0700 (PDT)
+
+Final-Recipient: rfc822; x14269810@homiemail-mx12.g.dreamhost.com
+Original-Recipient: rfc822;ventas@mimpi.com.ar
+Action: failed
+Status: 5.2.2
+Diagnostic-Code: x-unix; input/output error
+
+--A56B92D426B.1434146686/homiemail-mx12.g.dreamhost.com
+Content-Description: Undelivered Message Headers
+Content-Type: text/rfc822-headers
+
+Received: from iad1-shared-relay1.dreamhost.com (iad1-shared-relay1.dreamhost.com [208.113.157.50])
+	by homiemail-mx12.g.dreamhost.com (Postfix) with ESMTP id A56B92D426B
+	for <ventas@mimpi.com.ar>; Fri, 12 Jun 2015 15:04:45 -0700 (PDT)
+Received: from matthew-thornton.dreamhost.com (matthew-thornton.dreamhost.com [173.236.224.107])
+	by iad1-shared-relay1.dreamhost.com (Postfix) with ESMTP id 1DF58B400D6
+	for <ventas@mimpi.com.ar>; Fri, 12 Jun 2015 15:04:45 -0700 (PDT)
+Received: by matthew-thornton.dreamhost.com (Postfix, from userid 14255220)
+	id DF6F710066E; Fri, 12 Jun 2015 15:04:44 -0700 (PDT)
+To: ventas@mimpi.com.ar
+Subject: Pedido de Mimpi
+X-PHP-Originating-Script: 14255220:order.php
+Content-type: text/html; charset=iso-8859-1
+From: ventas@mimpi.com.ar
+Message-Id: <20150612220444.DF6F710066E@matthew-thornton.dreamhost.com>
+Date: Fri, 12 Jun 2015 15:04:44 -0700 (PDT)
+
+--A56B92D426B.1434146686/homiemail-mx12.g.dreamhost.com--

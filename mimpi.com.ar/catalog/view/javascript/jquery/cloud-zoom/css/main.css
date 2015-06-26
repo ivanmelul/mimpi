@@ -1,0 +1,16 @@
+
+/* Feature section in ZoomEngine page */
+.zoom-section {	
+	clear:both;		
+}
+
+* html .zoom-section { 
+	display:inline;
+	clear:both;
+}
+
+.zoom-small-image {
+	/*border:1px solid #111;*/
+	float:left;
+	margin-bottom:20px;
+}

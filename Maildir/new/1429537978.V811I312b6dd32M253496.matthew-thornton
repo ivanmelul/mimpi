@@ -1,0 +1,88 @@
+Return-Path: <>
+X-Original-To: mimpi_ftp@matthew-thornton.dreamhost.com
+Delivered-To: mimpi_ftp@matthew-thornton.dreamhost.com
+Received: from iad1-shared-relay1.dreamhost.com (iad1-shared-relay1.dreamhost.com [208.113.157.50])
+	by matthew-thornton.dreamhost.com (Postfix) with ESMTP id EBBF7100C9F
+	for <mimpi_ftp@matthew-thornton.dreamhost.com>; Mon, 20 Apr 2015 06:52:56 -0700 (PDT)
+Received: by iad1-shared-relay1.dreamhost.com (Postfix)
+	id DFD4AB4007F; Mon, 20 Apr 2015 06:52:56 -0700 (PDT)
+Date: Mon, 20 Apr 2015 06:52:56 -0700 (PDT)
+From: MAILER-DAEMON@iad1-shared-relay1.dreamhost.com (Mail Delivery System)
+Subject: Undelivered Mail Returned to Sender
+To: mimpi_ftp@matthew-thornton.dreamhost.com
+Auto-Submitted: auto-replied
+MIME-Version: 1.0
+Content-Type: multipart/report; report-type=delivery-status;
+	boundary="8AC11B4005D.1429537976/iad1-shared-relay1.dreamhost.com"
+Message-Id: <20150420135256.DFD4AB4007F@iad1-shared-relay1.dreamhost.com>
+
+This is a MIME-encapsulated message.
+
+--8AC11B4005D.1429537976/iad1-shared-relay1.dreamhost.com
+Content-Description: Notification
+Content-Type: text/plain; charset=us-ascii
+
+This is the mail system at host iad1-shared-relay1.dreamhost.com.
+
+I'm sorry to have to inform you that your message could not
+be delivered to one or more recipients. It's attached below.
+
+If you are a current customer of DreamHost, please contact our 
+technical support team here
+
+https://panel.dreamhost.com/support
+
+If you are not a customer please use our contact form at.
+
+http://dreamhost.com/contact
+
+If you do so, please include this email in your support ticket. You can
+delete your own text from the attached returned message.
+
+		DreamHost Email Support
+
+<mariela_colombo@live.com>: host mx3.hotmail.com[65.55.33.135] said: 550 SC-001
+    (COL004-MC6F11) Unfortunately, messages from 208.113.157.50 weren't sent.
+    Please contact your Internet service provider since part of their network
+    is on our block list. You can also refer your provider to
+    http://mail.live.com/mail/troubleshooting.aspx#errors. (in reply to MAIL
+    FROM command)
+
+--8AC11B4005D.1429537976/iad1-shared-relay1.dreamhost.com
+Content-Description: Delivery report
+Content-Type: message/delivery-status
+
+Reporting-MTA: dns; iad1-shared-relay1.dreamhost.com
+X-Postfix-Queue-ID: 8AC11B4005D
+X-Postfix-Sender: rfc822; mimpi_ftp@matthew-thornton.dreamhost.com
+Arrival-Date: Mon, 20 Apr 2015 06:52:56 -0700 (PDT)
+
+Final-Recipient: rfc822; mariela_colombo@live.com
+Original-Recipient: rfc822;mariela_colombo@live.com
+Action: failed
+Status: 5.0.0
+Remote-MTA: dns; mx3.hotmail.com
+Diagnostic-Code: smtp; 550 SC-001 (COL004-MC6F11) Unfortunately, messages from
+    208.113.157.50 weren't sent. Please contact your Internet service provider
+    since part of their network is on our block list. You can also refer your
+    provider to http://mail.live.com/mail/troubleshooting.aspx#errors.
+
+--8AC11B4005D.1429537976/iad1-shared-relay1.dreamhost.com
+Content-Description: Undelivered Message Headers
+Content-Type: text/rfc822-headers
+
+Return-Path: <mimpi_ftp@matthew-thornton.dreamhost.com>
+Received: from matthew-thornton.dreamhost.com (matthew-thornton.dreamhost.com [173.236.224.107])
+	by iad1-shared-relay1.dreamhost.com (Postfix) with ESMTP id 8AC11B4005D
+	for <mariela_colombo@live.com>; Mon, 20 Apr 2015 06:52:56 -0700 (PDT)
+Received: by matthew-thornton.dreamhost.com (Postfix, from userid 14255220)
+	id 805F2100CA0; Mon, 20 Apr 2015 06:52:56 -0700 (PDT)
+To: mariela_colombo@live.com
+Subject: Pedido de Mimpi
+X-PHP-Originating-Script: 14255220:order.php
+Content-type: text/html; charset=iso-8859-1
+From: ventas@mimpi.com.ar
+Message-Id: <20150420135256.805F2100CA0@matthew-thornton.dreamhost.com>
+Date: Mon, 20 Apr 2015 06:52:56 -0700 (PDT)
+
+--8AC11B4005D.1429537976/iad1-shared-relay1.dreamhost.com--

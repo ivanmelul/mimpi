@@ -1,0 +1,102 @@
+Return-Path: <>
+X-Original-To: mimpi_ftp@matthew-thornton.dreamhost.com
+Delivered-To: mimpi_ftp@matthew-thornton.dreamhost.com
+Received: by matthew-thornton.dreamhost.com (Postfix)
+	id F231840537; Thu,  4 Sep 2014 10:27:56 -0700 (PDT)
+Date: Thu,  4 Sep 2014 10:27:56 -0700 (PDT)
+From: MAILER-DAEMON@matthew-thornton.dreamhost.com (Mail Delivery System)
+Subject: Undelivered Mail Returned to Sender
+To: mimpi_ftp@matthew-thornton.dreamhost.com
+Auto-Submitted: auto-replied
+MIME-Version: 1.0
+Content-Type: multipart/report; report-type=delivery-status;
+	boundary="CB7BE40536.1409851676/matthew-thornton.dreamhost.com"
+Message-Id: <20140904172756.F231840537@matthew-thornton.dreamhost.com>
+
+This is a MIME-encapsulated message.
+
+--CB7BE40536.1409851676/matthew-thornton.dreamhost.com
+Content-Description: Notification
+Content-Type: text/plain; charset=us-ascii
+
+This is the mail system at host matthew-thornton.dreamhost.com.
+
+I'm sorry to have to inform you that your message could not
+be delivered to one or more recipients. It's attached below.
+
+If you are a current customer of DreamHost, please contact our 
+technical support team here
+
+https://panel.dreamhost.com/support
+
+If you are not a customer please use our contact form at.
+
+http://dreamhost.com/contact
+
+If you do so, please include this email in your support ticket. You can
+delete your own text from the attached returned message.
+
+		DreamHost Email Support
+
+<jesicaharari@gmail.com>: host iad1-shared-relay1.dreamhost.com[208.113.157.50]
+    said: 550 5.7.1 Sender domain not allowed. Please read:
+    http://dhurl.org/20b (in reply to end of DATA command)
+
+<ventas@mimpi.com.ar>: host iad1-shared-relay1.dreamhost.com[208.113.157.50]
+    said: 550 5.7.1 Sender domain not allowed. Please read:
+    http://dhurl.org/20b (in reply to end of DATA command)
+
+--CB7BE40536.1409851676/matthew-thornton.dreamhost.com
+Content-Description: Delivery report
+Content-Type: message/delivery-status
+
+Reporting-MTA: dns; matthew-thornton.dreamhost.com
+X-Postfix-Queue-ID: CB7BE40536
+X-Postfix-Sender: rfc822; mimpi_ftp@matthew-thornton.dreamhost.com
+Arrival-Date: Thu,  4 Sep 2014 10:27:56 -0700 (PDT)
+
+Final-Recipient: rfc822; jesicaharari@gmail.com
+Action: failed
+Status: 5.7.1
+Remote-MTA: dns; iad1-shared-relay1.dreamhost.com
+Diagnostic-Code: smtp; 550 5.7.1 Sender domain not allowed. Please read:
+    http://dhurl.org/20b
+
+Final-Recipient: rfc822; ventas@mimpi.com.ar
+Action: failed
+Status: 5.7.1
+Remote-MTA: dns; iad1-shared-relay1.dreamhost.com
+Diagnostic-Code: smtp; 550 5.7.1 Sender domain not allowed. Please read:
+    http://dhurl.org/20b
+
+--CB7BE40536.1409851676/matthew-thornton.dreamhost.com
+Content-Description: Undelivered Message
+Content-Type: message/rfc822
+
+Return-Path: <mimpi_ftp@matthew-thornton.dreamhost.com>
+Received: by matthew-thornton.dreamhost.com (Postfix, from userid 14255220)
+	id CB7BE40536; Thu,  4 Sep 2014 10:27:56 -0700 (PDT)
+To: ventas@mimpi.com.ar
+Subject: Contacto de Mimpi
+X-PHP-Originating-Script: 14255220:contactoGeneric.php
+From: ferreriantonela91@gmail.com
+Message-Id: <20140904172756.CB7BE40536@matthew-thornton.dreamhost.com>
+Date: Thu,  4 Sep 2014 10:27:56 -0700 (PDT)
+
+---------------------------------- 
+            Contacto               
+---------------------------------- 
+NOMBRE:	Antonela
+MAIL:	ferreriantonela91@gmail.com
+TEL:	01159576577
+FECHA:	04/09/2014
+HORA:	10:27:56 am
+---------------------------------- 
+
+Hola! buenas tardes, mi nombre es Antonela, soy de Lanus. Me comentaron que estaban por inaugurar un nuevo local, y que se encontraban en la búsqueda de personal. Me interesaría enviarles mi CV para poder coordinar una entrevista. Si estan interesados en conocerme, les deje mi email y mi numero de celular, para que puedan decirme como puedo hacer. Llame al teléfono que dice en la pagina pero no pude comunicarme! gracias!!
+
+---------------------------------- 
+Enviado desde http://www.mimpi.com.ar 
+
+
+--CB7BE40536.1409851676/matthew-thornton.dreamhost.com--

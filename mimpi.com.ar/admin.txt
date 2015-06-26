@@ -1,0 +1,21 @@
+Han realizado un pedido.
+
+Cliente: Federico Snieg, fedesnieg@gmail.com
+Telefono: 123456
+
+Direccion de envio 1:
+Calle 123
+Direccion de envio 2:
+
+Id de pedido: 8
+Fecha alta: 11/03/2014
+Metodo de pago: Transferencia bancaria
+Metodo de envio: Envío tarifa fija
+
+Productos
+1x Campera college combinada con polar (Talle:  Color: ) $120.00
+
+
+Sub-Total:: $120.00
+Total:: $120.00
+

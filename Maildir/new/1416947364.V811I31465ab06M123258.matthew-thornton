@@ -1,0 +1,528 @@
+Return-Path: <>
+X-Original-To: mimpi_ftp@matthew-thornton.dreamhost.com
+Delivered-To: mimpi_ftp@matthew-thornton.dreamhost.com
+Received: by matthew-thornton.dreamhost.com (Postfix)
+	id 14E5A1004FE; Tue, 25 Nov 2014 12:29:24 -0800 (PST)
+Date: Tue, 25 Nov 2014 12:29:24 -0800 (PST)
+From: MAILER-DAEMON@matthew-thornton.dreamhost.com (Mail Delivery System)
+Subject: Undelivered Mail Returned to Sender
+To: mimpi_ftp@matthew-thornton.dreamhost.com
+Auto-Submitted: auto-replied
+MIME-Version: 1.0
+Content-Type: multipart/report; report-type=delivery-status;
+	boundary="CD54B100405.1416947364/matthew-thornton.dreamhost.com"
+Message-Id: <20141125202924.14E5A1004FE@matthew-thornton.dreamhost.com>
+
+This is a MIME-encapsulated message.
+
+--CD54B100405.1416947364/matthew-thornton.dreamhost.com
+Content-Description: Notification
+Content-Type: text/plain; charset=us-ascii
+
+This is the mail system at host matthew-thornton.dreamhost.com.
+
+I'm sorry to have to inform you that your message could not
+be delivered to one or more recipients. It's attached below.
+
+If you are a current customer of DreamHost, please contact our
+technical support team here
+
+https://panel.dreamhost.com/support
+
+If you are not a customer please use our contact form at.
+
+http://dreamhost.com/contact
+
+If you do so, please include this email in your support ticket. You can
+delete your own text from the attached returned message.
+
+                DreamHost Email Support
+
+<jesicaharari@gmail.com>: host iad1-shared-relay1.dreamhost.com[208.113.157.50]
+    said: 550 5.7.1 Sender domain not allowed. Please read:
+    http://dhurl.org/20b (in reply to end of DATA command)
+
+<ventas@mimpi.com.ar>: host iad1-shared-relay1.dreamhost.com[208.113.157.50]
+    said: 550 5.7.1 Sender domain not allowed. Please read:
+    http://dhurl.org/20b (in reply to end of DATA command)
+
+--CD54B100405.1416947364/matthew-thornton.dreamhost.com
+Content-Description: Delivery report
+Content-Type: message/delivery-status
+
+Reporting-MTA: dns; matthew-thornton.dreamhost.com
+X-Postfix-Queue-ID: CD54B100405
+X-Postfix-Sender: rfc822; mimpi_ftp@matthew-thornton.dreamhost.com
+Arrival-Date: Tue, 25 Nov 2014 12:29:23 -0800 (PST)
+
+Final-Recipient: rfc822; jesicaharari@gmail.com
+Action: failed
+Status: 5.7.1
+Remote-MTA: dns; iad1-shared-relay1.dreamhost.com
+Diagnostic-Code: smtp; 550 5.7.1 Sender domain not allowed. Please read:
+    http://dhurl.org/20b
+
+Final-Recipient: rfc822; ventas@mimpi.com.ar
+Action: failed
+Status: 5.7.1
+Remote-MTA: dns; iad1-shared-relay1.dreamhost.com
+Diagnostic-Code: smtp; 550 5.7.1 Sender domain not allowed. Please read:
+    http://dhurl.org/20b
+
+--CD54B100405.1416947364/matthew-thornton.dreamhost.com
+Content-Description: Undelivered Message
+Content-Type: message/rfc822
+
+Return-Path: <mimpi_ftp@matthew-thornton.dreamhost.com>
+Received: by matthew-thornton.dreamhost.com (Postfix, from userid 14255220)
+	id CD54B100405; Tue, 25 Nov 2014 12:29:23 -0800 (PST)
+To: ventas@mimpi.com.ar
+Subject: Contacto de Mimpi
+X-PHP-Originating-Script: 14255220:contactoGeneric.php
+From: patriciadri@yahoo.com.ar
+Message-Id: <20141125202923.CD54B100405@matthew-thornton.dreamhost.com>
+Date: Tue, 25 Nov 2014 12:29:23 -0800 (PST)
+
+---------------------------------- 
+            Contacto               
+---------------------------------- 
+NOMBRE:	patricia dri
+MAIL:	patriciadri@yahoo.com.ar
+TEL:	0362-4481682
+FECHA:	25/11/2014
+HORA:	12:29:23 pm
+---------------------------------- 
+
+solicito realizar pedido necesito realizar pedido:
+
+
+Imagen Nombre producto Modelo Cantidad Precio unitario Total 
+
+Calza jean  Calza jean 
+- Talle: 16
+ - Color: p24a
+ 
+6191       Remover $69.99 $69.99 
+Calza capri con tachas  Calza capri con tachas 
+- Talle: 12
+ - Color: p2e
+ 
+6182       Remover $59.00 $59.00 
+Calza capri con tachas  Calza capri con tachas 
+- Talle: 8
+ - Color: p2e
+ 
+6182       Remover $59.00 $59.00 
+Calza capri con tachas  Calza capri con tachas 
+- Talle: 14
+ - Color: p2e
+ 
+6182       Remover $59.00 $59.00 
+Calza capri con tachas  Calza capri con tachas 
+- Talle: 10
+ - Color: p2b
+ 
+6182       Remover $59.00 $59.00 
+Calza capri con tachas  Calza capri con tachas 
+- Talle: 6
+ - Color: p2d
+ 
+6182       Remover $59.00 $59.00 
+Calza capri con tachas  Calza capri con tachas 
+- Talle: 8
+ - Color: p2c
+ 
+6182       Remover $59.00 $59.00 
+Calza capri con tachas  Calza capri con tachas 
+- Talle: 14
+ - Color: p2d
+ 
+6182       Remover $59.00 $59.00 
+Bikini triangulitos con voladitos con pareo  Bikini triangulitos con voladitos con pareo 
+- Talle: 14
+ - Color: p56b
+ 
+6417       Remover $99.00 $99.00 
+Malla enteriza estampada con espalda calada  Malla enteriza estampada con espalda calada 
+- Talle: 6
+ - Color: p58b
+ 
+6416       Remover $99.99 $99.99 
+Musculosa con espalda calada  Musculosa con espalda calada 
+- Talle: 8
+ - Color: p1e
+ 
+6131       Remover $59.99 $59.99 
+Musculosa con espalda calada  Musculosa con espalda calada 
+- Talle: 10
+ - Color: p1b
+ 
+6131       Remover $59.99 $59.99 
+Musculosa con espalda calada  Musculosa con espalda calada 
+- Talle: 12
+ - Color: p1d
+ 
+6131       Remover $59.99 $59.99 
+Musculosa con espalda calada  Musculosa con espalda calada 
+- Talle: 14
+ - Color: p1c
+ 
+6131       Remover $59.99 $59.99 
+Musculosa con espalda cruzada  Musculosa con espalda cruzada 
+- Talle: 6
+ - Color: p1e
+ 
+6129       Remover $59.99 $59.99 
+Musculosa con espalda cruzada  Musculosa con espalda cruzada 
+- Talle: 14
+ - Color: p1d
+ 
+6129       Remover $59.99 $59.99 
+Musculosa de modal floreado  Musculosa de modal floreado 
+- Talle: 14
+ - Color: p15b
+ 
+6126       Remover $39.99 $39.99 
+Musculosa de modal floreado  Musculosa de modal floreado 
+- Talle: 10
+ - Color: p15b
+ 
+6126       Remover $39.99 $39.99 
+Musculosa de modal floreado  Musculosa de modal floreado 
+- Talle: 12
+ - Color: p15a
+ 
+6126       Remover $39.99 $39.99 
+Musculosa con moño en espalda  Musculosa con moño en espalda 
+- Talle: 14
+ - Color: p1a
+ 
+6125       Remover $59.99 $59.99 
+Musculosa con moño en espalda  Musculosa con moño en espalda 
+- Talle: 8
+ - Color: p1b
+ 
+6125       Remover $59.99 $59.99 
+Musculosa con moño en espalda  Musculosa con moño en espalda 
+- Talle: 6
+ - Color: p1c
+ 
+6125       Remover $59.99 $59.99 
+Musculosa con moño en espalda  Musculosa con moño en espalda 
+- Talle: 10
+ - Color: p1e
+ 
+6125       Remover $59.99 $59.99 
+Solero estampado con espalda calada  Solero estampado con espalda calada 
+- Talle: 10
+ - Color: p14b
+ 
+6142       Remover $79.99 $79.99 
+Solero estampado con espalda calada  Solero estampado con espalda calada 
+- Talle: 14
+ - Color: p14a
+ 
+6142       Remover $79.99 $79.99 
+Monoprenda de fibrana estampada  Monoprenda de fibrana estampada 
+- Talle: 14
+ - Color: p17a
+ 
+6146       Remover $99.99 $99.99 
+Short de modal floreado  Short de modal floreado 
+- Talle: 10
+ - Color: p15c
+ 
+6171       Remover $49.99 $49.99 
+Short de modal floreado  Short de modal floreado 
+- Talle: 8
+ - Color: p15a
+ 
+6171       Remover $49.99 $49.99 
+Short de modal floreado  Short de modal floreado 
+- Talle: 6
+ - Color: p15b
+ 
+6171       Remover $49.99 $49.99 
+Short de modal floreado  Short de modal floreado 
+- Talle: 12
+ - Color: p15b
+ 
+6171       Remover $49.99 $49.99 
+Short de modal floreada combinado  Short de modal floreada combinado 
+- Talle: 12
+ - Color: p8b
+ 
+6175       Remover $49.99 $49.99 
+Short de modal floreada combinado  Short de modal floreada combinado 
+- Talle: 6
+ - Color: p8c
+ 
+6175       Remover $49.99 $49.99 
+Short de modal floreada combinado  Short de modal floreada combinado 
+- Talle: 8
+ - Color: p8b
+ 
+6175       Remover $49.99 $49.99 
+Short de modal floreada combinado  Short de modal floreada combinado 
+- Talle: 14
+ - Color: p8c
+ 
+6175       Remover $49.99 $49.99 
+Short de modal floreada combinado  Short de modal floreada combinado 
+- Talle: 10
+ - Color: p8d
+ 
+6175       Remover $49.99 $49.99 
+Bermuda de papertouch  Bermuda de papertouch 
+- Talle: 14
+ - Color: p37b
+ 
+6364       Remover $69.99 $69.99 
+Bermuda de papertouch  Bermuda de papertouch 
+- Talle: 8
+ - Color: p37d
+ 
+6364       Remover $69.99 $69.99 
+Bermuda de papertouch  Bermuda de papertouch 
+- Talle: 10
+ - Color: p37c
+ 
+6364       Remover $69.99 $69.99 
+Bermuda de papertouch  Bermuda de papertouch 
+- Talle: 12
+ - Color: p37d
+ 
+6364       Remover $69.99 $69.99 
+Bermuda de papertouch  Bermuda de papertouch 
+- Talle: 6
+ - Color: p37a
+ 
+6364       Remover $69.99 $69.99 
+Bermuda de gabardina elastizada  Bermuda de gabardina elastizada 
+- Talle: 5
+ - Color: p36b
+ 
+6362       Remover $109.99 $109.99 
+Bermuda de gabardina elastizada  Bermuda de gabardina elastizada 
+- Talle: 4
+ - Color: p36c
+ 
+6362       Remover $109.99 $109.99 
+Bermuda de gabardina elastizada  Bermuda de gabardina elastizada 
+- Talle: 14
+ - Color: p36c
+ 
+6362       Remover $109.99 $109.99 
+Bermuda de gabardina elastizada  Bermuda de gabardina elastizada 
+- Talle: 16
+ - Color: p36b
+ 
+6362       Remover $109.99 $109.99 
+Bermuda de gabardina elastizada  Bermuda de gabardina elastizada 
+- Talle: 10
+ - Color: p36b
+ 
+6362       Remover $109.99 $109.99 
+Remera de jersey escote v   Remera de jersey escote v  
+- Talle: 16
+ - Color: p34c
+ 
+6331       Remover $69.99 $69.99 
+Remera de jersey escote v   Remera de jersey escote v  
+- Talle: 6
+ - Color: p34h
+ 
+6331       Remover $69.99 $69.99 
+Remera de jersey escote v   Remera de jersey escote v  
+- Talle: 14
+ - Color: p34a
+ 
+6331       Remover $69.99 $69.99 
+Remera de jersey escote v   Remera de jersey escote v  
+- Talle: 10
+ - Color: p34d
+ 
+6331       Remover $69.99 $69.99 
+Remera de jersey escote v   Remera de jersey escote v  
+- Talle: 12
+ - Color: p34b
+ 
+6331       Remover $69.99 $69.99 
+Remera de jersey escote v   Remera de jersey escote v  
+- Talle: 8
+ - Color: p34c
+ 
+6331       Remover $69.99 $69.99 
+Musculosa de jersey rayado  Musculosa de jersey rayado 
+- Talle: 12
+ - Color: p42a
+ 
+6357       Remover $59.99 $59.99 
+Musculosa de jersey rayado  Musculosa de jersey rayado 
+- Talle: 16
+ - Color: p42b
+ 
+6357       Remover $59.99 $59.99 
+Musculosa de jersey rayado  Musculosa de jersey rayado 
+- Talle: 6
+ - Color: p42a
+ 
+6357       Remover $59.99 $59.99 
+Musculosa estampa Malibu  Musculosa estampa Malibu 
+- Talle: 6
+ - Color: p34a
+ 
+6352       Remover $59.99 $59.99 
+Musculosa estampa Malibu  Musculosa estampa Malibu 
+- Talle: 14
+ - Color: p34b
+ 
+6352       Remover $59.99 $59.99 
+Musculosa estampa Malibu  Musculosa estampa Malibu 
+- Talle: 10
+ - Color: p34c
+ 
+6352       Remover $59.99 $59.99 
+Musculosa estampa Malibu  Musculosa estampa Malibu 
+- Talle: 8
+ - Color: p34h
+ 
+6352       Remover $59.99 $59.99 
+Conjunto de musculosa con short de jersey  Conjunto de musculosa con short de jersey 
+- Talle: 3
+ - Color: p34h
+ 
+6237       Remover $89.99 $89.99 
+Conjunto de musculosa con short de jersey  Conjunto de musculosa con short de jersey 
+- Talle: 4
+ - Color: p34a
+ 
+6237       Remover $89.99 $89.99 
+Conjunto de musculosa con short de jersey  Conjunto de musculosa con short de jersey 
+- Talle: 5
+ - Color: p34b
+ 
+6237       Remover $89.99 $89.99 
+Conjunto de remera estampada con short  Conjunto de remera estampada con short 
+- Talle: 4
+ - Color: p30c
+ 
+6235       Remover $89.99 $89.99 
+Musculosa combinada con estampa   Musculosa combinada con estampa  
+- Talle: 5
+ - Color: p34a
+ 
+6225       Remover $49.99 $49.99 
+Musculosa combinada con estampa   Musculosa combinada con estampa  
+- Talle: 4
+ - Color: p34b
+ 
+6225       Remover $49.99 $49.99 
+Musculosa de jersey con espalda rayada  Musculosa de jersey con espalda rayada 
+- Talle: 5
+ - Color: p42a
+ 
+6226       Remover $49.99 $49.99 
+Remera de jersey con estampa y bordado  Remera de jersey con estampa y bordado 
+- Talle: 5
+ - Color: p34b
+ 
+6213       Remover $59.99 $59.99 
+Remera con estampa y bordado  Remera con estampa y bordado 
+- Talle: 4
+ - Color: p51a
+ 
+6215       Remover $59.99 $59.99 
+Solero de modal con breteles cruzados  Solero de modal con breteles cruzados 
+- Talle: 5
+ - Color: p13b
+ 
+6047       Remover $69.99 $69.99 
+Conjunto de musculosa de jersey y short  Conjunto de musculosa de jersey y short 
+- Talle: 4
+ - Color: p13b
+ 
+6050       Remover $79.99 $79.99 
+Conjunto de musculosa de jersey y short  Conjunto de musculosa de jersey y short 
+- Talle: 5
+ - Color: p13a
+ 
+6050       Remover $79.99 $79.99 
+Conjunto de remera de modal con moño y calza   Conjunto de remera de modal con moño y calza  
+- Talle: 3
+ - Color: p16c
+ 
+6040       Remover $79.99 $79.99 
+Musculosa con puntilla en escote  Musculosa con puntilla en escote 
+- Talle: 5
+ - Color: p27b
+ 
+6029       Remover $39.99 $39.99 
+Musculosa con puntilla en escote  Musculosa con puntilla en escote 
+- Talle: 4
+ - Color: p27c
+ 
+6029       Remover $39.99 $39.99 
+Musculosa de modal con espalda competición  Musculosa de modal con espalda competición 
+- Talle: 4
+ - Color: p1d
+ 
+6025       Remover $59.99 $59.99 
+Musculosa de modal con espalda competición  Musculosa de modal con espalda competición 
+- Talle: 3
+ - Color: p1e
+ 
+6025       Remover $59.99 $59.99 
+Musculosa de modal estampa sandías  Musculosa de modal estampa sandías 
+- Talle: 4
+ - Color: p1e
+ 
+6027       Remover $49.99 $49.99 
+Musculosa de modal estampa sandías  Musculosa de modal estampa sandías 
+- Talle: 5
+ - Color: p1d
+ 
+6027       Remover $49.99 $49.99 
+Body musculosa  Body musculosa 
+- Talle: 4
+ - Color: m17b
+ 
+6488       Remover $59.99 $59.99 
+Conjunto de body musculosa con short  Conjunto de body musculosa con short 
+- Talle: 3
+ - Color: m1820d
+ 
+6493       Remover $69.99 $69.99 
+Conjunto de body musculosa con short  Conjunto de body musculosa con short 
+- Talle: 4
+ - Color: m181920a
+ 
+6493       Remover $69.99 $69.99 
+Body manga corta  Body manga corta 
+- Talle: 4
+ - Color: m10c
+ 
+6472       Remover $59.99 $59.99 
+Body manga corta  Body manga corta 
+- Talle: 3
+ - Color: m10b
+ 
+6472       Remover $59.99 $59.99 
+Body musculosa con tiritas  Body musculosa con tiritas 
+- Talle: 4
+ - Color: m78b
+ 
+6478       Remover $59.99 $59.99 
+ 
+
+Sub-Total:: $5,471.25 
+Total:: $5,471.25 
+
+
+Pagos
+
+---------------------------------- 
+Enviado desde http://www.mimpi.com.ar 
+
+
+--CD54B100405.1416947364/matthew-thornton.dreamhost.com--

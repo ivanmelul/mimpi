@@ -1,0 +1,91 @@
+Return-Path: <>
+X-Original-To: mimpi_ftp@matthew-thornton.dreamhost.com
+Delivered-To: mimpi_ftp@matthew-thornton.dreamhost.com
+Received: from iad1-vsguest-relay2.dreamhost.com (iad1-vsguest-relay2.dreamhost.com [208.113.157.41])
+	by matthew-thornton.dreamhost.com (Postfix) with ESMTP id 7C4AB40076
+	for <mimpi_ftp@matthew-thornton.dreamhost.com>; Thu, 20 Mar 2014 13:15:39 -0700 (PDT)
+Received: by iad1-vsguest-relay2.dreamhost.com (Postfix)
+	id 775DC8001A461; Thu, 20 Mar 2014 13:15:39 -0700 (PDT)
+Date: Thu, 20 Mar 2014 13:15:39 -0700 (PDT)
+From: MAILER-DAEMON@iad1-vsguest-relay2.dreamhost.com (Mail Delivery System)
+Subject: Undelivered Mail Returned to Sender
+To: mimpi_ftp@matthew-thornton.dreamhost.com
+Auto-Submitted: auto-replied
+MIME-Version: 1.0
+Content-Type: multipart/report; report-type=delivery-status;
+	boundary="3C5018001A457.1395346539/iad1-vsguest-relay2.dreamhost.com"
+Message-Id: <20140320201539.775DC8001A461@iad1-vsguest-relay2.dreamhost.com>
+
+This is a MIME-encapsulated message.
+
+--3C5018001A457.1395346539/iad1-vsguest-relay2.dreamhost.com
+Content-Description: Notification
+Content-Type: text/plain; charset=us-ascii
+
+This is the mail system at host iad1-vsguest-relay2.dreamhost.com.
+
+I'm sorry to have to inform you that your message could not
+be delivered to one or more recipients. It's attached below.
+
+If you are a current customer of DreamHost, please contact our 
+technical support team here
+
+https://panel.dreamhost.com/support
+
+If you are not a customer please use our contact form at.
+
+http://dreamhost.com/contact
+
+If you do so, please include this email in your support ticket. You can
+delete your own text from the attached returned message.
+
+		DreamHost Email Support
+
+<SHOPPINGCIUDADMAGICA@LIVE.COM.AR>: host mx2.hotmail.com[65.55.92.184] said:
+    550 SC-002 (SNT0-MC4-F47) Unfortunately, messages from 208.113.157.41
+    weren't sent. Please contact your Internet service provider since part of
+    their network is on our block list. You can also refer your provider to
+    http://mail.live.com/mail/troubleshooting.aspx#errors. (in reply to MAIL
+    FROM command)
+
+--3C5018001A457.1395346539/iad1-vsguest-relay2.dreamhost.com
+Content-Description: Delivery report
+Content-Type: message/delivery-status
+
+Reporting-MTA: dns; iad1-vsguest-relay2.dreamhost.com
+X-Postfix-Queue-ID: 3C5018001A457
+X-Postfix-Sender: rfc822; mimpi_ftp@matthew-thornton.dreamhost.com
+Arrival-Date: Thu, 20 Mar 2014 13:15:39 -0700 (PDT)
+
+Final-Recipient: rfc822; SHOPPINGCIUDADMAGICA@LIVE.COM.AR
+Original-Recipient: rfc822;SHOPPINGCIUDADMAGICA@LIVE.COM.AR
+Action: failed
+Status: 5.0.0
+Remote-MTA: dns; mx2.hotmail.com
+Diagnostic-Code: smtp; 550 SC-002 (SNT0-MC4-F47) Unfortunately, messages from
+    208.113.157.41 weren't sent. Please contact your Internet service provider
+    since part of their network is on our block list. You can also refer your
+    provider to http://mail.live.com/mail/troubleshooting.aspx#errors.
+
+--3C5018001A457.1395346539/iad1-vsguest-relay2.dreamhost.com
+Content-Description: Undelivered Message Headers
+Content-Type: text/rfc822-headers
+
+Return-Path: <mimpi_ftp@matthew-thornton.dreamhost.com>
+Received: from iad1-shared-relay1.dreamhost.com (iad1-shared-relay1.dreamhost.com [208.113.157.50])
+	by iad1-vsguest-relay2.dreamhost.com (Postfix) with ESMTP id 3C5018001A457
+	for <SHOPPINGCIUDADMAGICA@LIVE.COM.AR>; Thu, 20 Mar 2014 13:15:39 -0700 (PDT)
+Received: from matthew-thornton.dreamhost.com (matthew-thornton.dreamhost.com [173.236.224.107])
+	by iad1-shared-relay1.dreamhost.com (Postfix) with ESMTP id CC0E6B40082
+	for <SHOPPINGCIUDADMAGICA@LIVE.COM.AR>; Thu, 20 Mar 2014 13:15:38 -0700 (PDT)
+Received: by matthew-thornton.dreamhost.com (Postfix, from userid 14255220)
+	id BC4E3400AC; Thu, 20 Mar 2014 13:15:38 -0700 (PDT)
+To: SHOPPINGCIUDADMAGICA@LIVE.COM.AR
+Subject: Pedido de Mimpi
+X-PHP-Originating-Script: 14255220:order.php
+Content-type: text/html; charset=iso-8859-1
+From: ventas@mimpi.com.ar
+Message-Id: <20140320201538.BC4E3400AC@matthew-thornton.dreamhost.com>
+Date: Thu, 20 Mar 2014 13:15:38 -0700 (PDT)
+
+--3C5018001A457.1395346539/iad1-vsguest-relay2.dreamhost.com--

@@ -1,0 +1,108 @@
+$(function(){
+	if ($(window).width() < 480) {
+		$(".contacto_fijo")[0].style.display = 'none';
+	}
+
+	Cufon.replace('.cufon', {fontFamily: 'MyriadPro-Regular'});
+	Cufon.replace('.cufon_cond', {fontFamily: 'MyriadPro-Cond'});
+	Cufon.replace('.cufon_cond_interlined', {fontFamily: 'MyriadPro-Cond'});
+	
+	Cufon.replace('.cufon_cond_bold', { fontFamily: 'MyriadPro-Cond', fontWeight: 'normal', hover: {
+        fontWeight: 'bold'
+    }});
+	Cufon.replace('.cufon_bold', { fontFamily: 'MyriadPro-Regular', fontWeight: 'normal', hover: {
+        fontWeight: 'bold'
+    }});
+});
+
+function cotizarPuerta(){
+	var alto, ancho;
+	alto = $("#alto")[0].value;
+	ancho = $("#ancho")[0].value;
+	
+	if( alto != '' && ancho != ''){
+		$("#mensaje")[0].value = "Hola!\nQuiero cotizar una puerta cuyas medidas son:\nAlto: " + alto + " mts.\nAncho: " + ancho + " mts.";
+		$("#nombre")[0].focus();
+		
+		$('html, body').animate({
+			scrollTop: $("#formulario").offset().top
+		}, 2000);
+		
+		$("#divCotizar").css("background-color", "#8C7C7C");
+		$("#pCotizar").css("color", "#EEE");
+	}
+}
+
+function enviarMensaje(){
+	
+	var email = $("#email").val();
+	var nombre_apellido = $("#nombre").val();
+	var telefono = $("#telefono").val();
+	var mensaje= $("#mensaje").val();
+	var error =false;
+	var pattern = /^\b[A-Z0-9._%-]+@[A-Z0-9.-]+\.[A-Z]{1,4}\b$/i
+	
+	if(!nombre_apellido){
+		mostrarError($("#error_nombre"), "*");
+		error=true;
+	}else
+		mostrarError($("#error_nombre"), "");
+	
+	if(!telefono){
+		mostrarError($("#error_telefono"), "*");
+		error=true;
+	}else if(telefono.length < 8){
+		mostrarError($("#error_telefono"), "Deben ser 8 digitos como minimo");
+		error=true;
+	}else
+		mostrarError($("#error_telefono"), "");
+	
+	if(!mensaje){
+		mostrarError($("#error_mensaje"), "*");
+		error=true;
+	}else
+		mostrarError($("#error_mensaje"), "");
+	
+	if(!email){
+		mostrarError($("#error_email"), "*");
+		error=true;
+	}else if(!pattern.test(email)){
+			mostrarError($("#error_email"), "Debe ser un email valido");
+			error=true;
+	}else
+		mostrarError($("#error_email"), "");
+		
+	if(!error){
+		var parametros = {
+			"email" : $("#email").val(),
+			"nombre_apellido": $("#nombre").val(),
+			"telefono": $("#telefono").val(),
+			"mensaje": $("#mensaje").val()
+		};
+		$.ajax({
+			data: parametros,
+			url: 'enviar_mensaje.php',
+			type: 'post',
+			success: function (response) {
+				$("#mensaje_enviado").css('display', 'block');
+				$("#mensaje_enviado").html(response);
+			},
+			error: function (response) {
+				alert(response);
+				//$("#mensaje").html("No llego");
+			}
+		});
+	}
+	
+}
+
+function mostrarError(control, texto){
+	control.removeClass("displayNone");
+	control.addClass("displayBlock");
+	control.text(texto);
+}
+
+function onlyNumbers(evt){
+	var keyPressed = (evt.which) ? evt.which : event.keyCode
+	return ((keyPressed >= 48 && keyPressed <= 57) || keyPressed == 44 || keyPressed ==46 );
+}
